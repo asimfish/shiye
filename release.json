@@ -1,0 +1,16 @@
+{
+  "app": "shiye",
+  "buildId": "6cac0c60d76661fb51a8",
+  "builtAt": "2026-10-27T15:05:01.018Z",
+  "base": "/shiye/",
+  "helper": "loopback",
+  "files": [
+    ".gitattributes",
+    ".nojekyll",
+    "404.html",
+    "README.md",
+    "assets/index-BoHTTKFF.js",
+    "assets/index-CswkcW6f.css",
+    "index.html"
+  ]
+}
