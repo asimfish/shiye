@@ -1,7 +1,7 @@
 {
   "app": "shiye",
-  "buildId": "6cac0c60d76661fb51a8",
-  "builtAt": "2026-10-27T15:05:01.018Z",
+  "buildId": "29cd73d69820175bec40",
+  "builtAt": "2026-10-28T14:43:17.432Z",
   "base": "/shiye/",
   "helper": "loopback",
   "files": [
@@ -9,8 +9,8 @@
     ".nojekyll",
     "404.html",
     "README.md",
-    "assets/index-BoHTTKFF.js",
-    "assets/index-CswkcW6f.css",
+    "assets/index-DWVxH5es.js",
+    "assets/index-DyvYtOdv.css",
     "index.html"
   ]
 }
